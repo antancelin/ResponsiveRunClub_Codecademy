@@ -78,6 +78,8 @@ Make a responsive homepage for a running club using HTML and CSS. Have to use fl
 </a>
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 
